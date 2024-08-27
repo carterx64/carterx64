@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    ifstream file("C:/Users/carahn/Desktop/CS 201/test");
+    ifstream file("test");
     if (!file.is_open()) {
         cout << "Failed to open the file." << endl;
         return 1;
