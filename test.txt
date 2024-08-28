@@ -1,4 +1,0 @@
-hello these are some lines
-in a file 
-that is on my desktop
-it has 4 lines
