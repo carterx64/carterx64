@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carterx64
-- 👀 I’m interested in CyberSecurity, Developement, and everyday Computing
-- 🌱 I’m currently implementing C ++ in network protocols
+- 👀 I’m interested in CyberSecurity, Developement, and Everyday Computing
+- 🌱 I’m currently implementing C ++ in network protocols !
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Music, Gaming and Skiing !
 
